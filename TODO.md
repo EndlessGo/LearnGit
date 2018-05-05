@@ -16,6 +16,6 @@ https://www.zhihu.com/question/35666744；
 
 |name1|name2  
 |:-|-:|
-
+|A|B|
 
 2. markdown怎么输入alpha？  
